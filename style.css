@@ -687,10 +687,12 @@ header.sticky {
     text-align: center !important;
   }
   .footer .box-container .box45 {
-    border: 2px solid black !important;
     display: flex !important;
+    flex-direction: column !important;
+    /* border: 2px solid black !important; */
     align-items: center !important;
     justify-content: center !important;
+    width: 100% !important;
   }
   .footer .box-container .box344 {
     width: 100% !important;
